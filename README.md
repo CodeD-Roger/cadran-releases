@@ -1,6 +1,6 @@
-# Cadran — versions publiées
+# Tempo — versions publiées
 
-Ce dépôt ne contient **aucun code** : seulement les versions de **Cadran**
+Ce dépôt ne contient **aucun code** : seulement les versions de **Tempo**
 (application macOS de suivi du temps) publiées en *releases*, et le fichier
 `latest.json` lu par l'application pour se mettre à jour.
 
